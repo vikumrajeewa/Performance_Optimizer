@@ -1,0 +1,9 @@
+/* admin.css */
+.wrap {
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
